@@ -401,6 +401,9 @@ div.s3-upload-form {
     font-weight: 400;
 }
 
+a {
+    color: var(--link-color);
+}
 .attach-or-paste .unstyled-button.link-button {
     color: var(--link-color); 
     font-size: 13px;
