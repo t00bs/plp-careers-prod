@@ -1,5 +1,5 @@
 /* Import a custom font from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=poppins:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
 /* Define custom CSS variables for colors */
 :root {
@@ -189,7 +189,7 @@ div#app_body #header {
 /* Style the apply button within the header */
 div#app_body #header #apply_button {
     order: 3;
-    margin-top: 37px
+    margin-top: 37px;
 }
 
 /* Hide the company name within the header */
@@ -239,7 +239,7 @@ div#submit_buttons input#submit_app {
     background-color: var(--primary-brand-color);
     padding-top: 8px;
     padding-bottom: 8px;
-    font-family: "poppins", 'sans-serif';
+    font-family: "Poppins", 'sans-serif';
     font-weight: 400;
 }
 
